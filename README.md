@@ -64,3 +64,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Description about the project
+The **Student Management System** is a web-based application built using Laravel and the **Filament Admin Panel**. It is designed for administrators to manage student records efficiently. The system provides a secure **admin login** with a default email and password, allowing authorized users to access and modify student details. Admins can **add, edit, and delete student records**, including fields like **name, email, phone number, date of birth, and course**. The application ensures **data integrity and security** while offering a clean and user-friendly interface through Filament. This system eliminates the need for manual record-keeping and provides a structured way to manage student information effortlessly.
